@@ -4,6 +4,11 @@ version control ----like clearcase
 2. revert back to older version of code
 3. synchronizing code between different developers.
 commands
-git clone
+git clone <GITHUB path>
+git commit -m "message"
+git status
+git add
+git push ---push changes to GITHUB repository
+git pull --- remote repository to local machine
 
 GITHUB
