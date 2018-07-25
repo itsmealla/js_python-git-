@@ -12,4 +12,4 @@ git push ---push changes to GITHUB repository
 git pull --- remote repository to local machine
 
 GITHUB 
-username: itsmealla
+username: itsmealla05
