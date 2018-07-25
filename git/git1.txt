@@ -1,0 +1,9 @@
+GIT
+version control ----like clearcase
+1. test changes to the code without losing original code
+2. revert back to older version of code
+3. synchronizing code between different developers.
+commands
+git clone
+
+GITHUB
